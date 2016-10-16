@@ -1,6 +1,6 @@
 <h3 align="center">RANCANG BANGUN PENDETEKSI BAHAYA BAU SAMPAH BERBASIS IOT <i>(INTERNET OF THINGS)</i> <br> (SUB MODUL:Pendeteksi Bau Amonia)</h3>
 <p align="center">
-  <img src="./img/proposal/logo.JPG">
+  <img src="./img/proposal/logo.JPG" width="100">
 </p>
 Pembangunan pendetaksi bau ini menggunakan mikrokontroller yang terintegrasi dengan web application, hal ini dibangun dikarnakan tidak adanya pemerhati lingkungan yang melihat adanya potensi gas beracun yang di timbulkan oleh sampah yaitu gas amonia 
 
